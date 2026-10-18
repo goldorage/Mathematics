@@ -1,0 +1,11 @@
+[project]
+name = "mathematics"
+version = "0.1.0"
+description = "Virtual Environement for mathematics purposes."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "numpy>=2.5.4",
+]
